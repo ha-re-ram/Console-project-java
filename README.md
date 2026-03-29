@@ -1,6 +1,10 @@
 # ☕ Java Console Projects Collection
 
-This repository is a collection of three comprehensive, monolith console-based applications built in Java. Each project demonstrates core Object-Oriented Programming (OOP) principles, clean architecture, and advanced logic for real-world scenarios.
+![Java](https://img.shields.io/badge/Java-8+-orange?style=for-the-badge&logo=java)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
+
+This repository is a comprehensive, monolith collection of three console-based applications built in Java. Each project demonstrates core **Object-Oriented Programming (OOP)**, **Clean Architecture**, and robust logic for real-world scenarios.
 
 ---
 
